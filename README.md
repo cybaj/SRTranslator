@@ -7,6 +7,9 @@
 ```bash
 pip install srtranslator
 ```
+### Firefox required
+
+firefox installation is required for headless firefox.
 
 ## Usage in Blender
 
